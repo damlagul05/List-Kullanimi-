@@ -1,0 +1,48 @@
+{
+    "persons": [
+        {
+            "id": 1,
+            "isim": "damla",
+            "ogrencimi": true,
+            "sevdiğirenkler": [
+                "mavi",
+                "lila",
+                "pembe"
+            ],
+            "adres": [
+                {
+                    "il": "kayseri",
+                    "ilce": "yahyalı",
+                    "tur": "ev"
+                },
+                {
+                    "il": "kayseri",
+                    "ilce": "talas",
+                    "tur": "okul"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "isim": "şeyma hatun",
+            "ogrencimi": false,
+            "sevdiğirenkler": [
+                "kırmızı",
+                "siyah",
+                "pembe"
+            ],
+            "adres": [
+                {
+                    "il": "mersin",
+                    "ilce": "mezitli",
+                    "tur": "ev"
+                },
+                {
+                    "il": "mersin",
+                    "ilce": "yenişehir",
+                    "tur": "işyeri"
+                }
+            ]
+        }
+    ]
+}
